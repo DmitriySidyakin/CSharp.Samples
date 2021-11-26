@@ -38,3 +38,6 @@ https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3
 
 # C# 8.0
 https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0
+
+# Официальная документация
+https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-version-history
