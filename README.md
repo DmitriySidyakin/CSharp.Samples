@@ -284,6 +284,20 @@
 </p>
 </details>
 
+# Дополнительно
+
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_0 .
+Для удобства рекомендуется загрузить всё решение.
+
+<details><summary>Не сопоставленные по версиям языка возможности:</summary>
+<p>
+
+- Перечисления
+  
+</p>
+</details>
+
+
 # Официальная документация
 
 https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-version-history
