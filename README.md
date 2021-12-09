@@ -31,7 +31,7 @@
 
 # C# 1.2
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 1.2</summary>
@@ -44,7 +44,7 @@
 
 # C# 2.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp2_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp2_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 2.0</summary>
@@ -68,7 +68,7 @@
 
 # C# 3.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp3_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp3_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 3.0</summary>
@@ -89,7 +89,7 @@
 
 # C# 4.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp4_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp4_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 4.0</summary>
@@ -105,7 +105,7 @@
 
 # C# 5.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp5_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp5_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 5.0</summary>
@@ -119,7 +119,7 @@
 
 # C# 6.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp6_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp6_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 6.0</summary>
@@ -138,7 +138,7 @@
 
 # C# 7.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.0</summary>
@@ -161,7 +161,7 @@
 
 # C# 7.1
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_1 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_1/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.1</summary>
@@ -181,7 +181,7 @@
 
 # C# 7.2
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_2 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_2/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.2</summary>
@@ -210,7 +210,7 @@
 
 # C# 7.3
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.3</summary>
@@ -242,7 +242,7 @@
 
 # C# 8.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 8.0</summary>
@@ -271,7 +271,7 @@
 
 # C# 9.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0/docs/README.md .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 9.0</summary>
