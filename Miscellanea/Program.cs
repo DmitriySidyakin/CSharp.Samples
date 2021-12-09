@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp7_1
+namespace Miscellanea
 {
     class Program
     {
