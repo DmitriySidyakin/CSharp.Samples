@@ -317,7 +317,7 @@
 
 # Дополнительно
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_0 .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/Miscellanea .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Не сопоставленные по версиям языка возможности:</summary>
