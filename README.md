@@ -48,7 +48,9 @@
 
 <details><summary>Возможности языка C# версии 1.2</summary>
 <p>
+  
   В цикле `foreach` реализован автоматический вызов Dispose в IEnumerator, если IEnumerator реализует IDisposable.
+  
 </p>
 </details>
 
