@@ -289,7 +289,7 @@
 Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0 .
 Для удобства рекомендуется загрузить всё решение.
 
-<details><summary>Возможности языка C# версии 8.0</summary>
+<details><summary>Возможности языка C# версии 9.0</summary>
 <p>
 
 - Записи
