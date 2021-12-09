@@ -4,7 +4,24 @@
 Примеры разбиты по версиям языка 1-8:
 
 # C# 1.0
-https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_0
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_0
+Для удобства рекомендуется загрузить всё решение.
+<details><summary>Возможности языка C# версии 1.0</summary>
+<p>
+Основные элементы языка:
+
+- Классы
+- Структуры
+- Интерфейсы
+- События
+- Свойства
+- Делегаты
+- Операторы и выражения
+- Операторы
+- Атрибуты
+
+</p>
+</details>
 
 # C# 1.2
 https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2
