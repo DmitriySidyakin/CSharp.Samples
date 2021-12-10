@@ -333,6 +333,7 @@
 <p>
 
 - Перечисления
+- Упаковка и распаковка
   
   Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/Miscellanea/docs/README.md
   
