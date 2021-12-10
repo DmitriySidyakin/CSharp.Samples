@@ -334,6 +334,7 @@
 
 - Перечисления
 - Упаковка и распаковка
+- Абстрактные классы
   
   Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/Miscellanea/docs/README.md
   
