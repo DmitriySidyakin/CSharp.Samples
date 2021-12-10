@@ -6,7 +6,13 @@ namespace Miscellanea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /**
+             * Примеры эелемнтов C# (разное)
+             */
+            Console.WriteLine("C# (разное) Примеры:");
+            Console.WriteLine("__________________________________");
+
+            Console.ReadLine();
         }
     }
 }

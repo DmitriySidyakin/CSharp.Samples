@@ -6,7 +6,13 @@ namespace CSharp1_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /**
+             * Примеры эелемнтов C# 1.2
+             */
+            Console.WriteLine("C# 1.2 Примеры:");
+            Console.WriteLine("__________________________________");
+
+            Console.ReadLine();
         }
     }
 }
