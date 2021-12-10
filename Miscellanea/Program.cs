@@ -7,7 +7,7 @@ namespace Miscellanea
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# (разное)
+             * Примеры эелементов C# (разное)
              */
             Console.WriteLine("C# (разное) Примеры:");
             Console.WriteLine("__________________________________");

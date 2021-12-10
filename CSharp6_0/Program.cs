@@ -7,7 +7,7 @@ namespace CSharp6_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 6.0
+             * Примеры эелементов C# 6.0
              */
             Console.WriteLine("C# 6.0 Примеры:");
             Console.WriteLine("__________________________________");

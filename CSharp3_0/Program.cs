@@ -7,7 +7,7 @@ namespace CSharp3_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 3.0
+             * Примеры эелементов C# 3.0
              */
             Console.WriteLine("C# 3.0 Примеры:");
             Console.WriteLine("__________________________________");

@@ -7,7 +7,7 @@ namespace CSharp9_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 9.0
+             * Примеры эелементов C# 9.0
              */
             Console.WriteLine("C# 9.0 Примеры:");
             Console.WriteLine("__________________________________");

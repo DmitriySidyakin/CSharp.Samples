@@ -7,7 +7,7 @@ namespace CSharp7_1
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 7.1
+             * Примеры эелементов C# 7.1
              */
             Console.WriteLine("C# 7.1 Примеры:");
             Console.WriteLine("__________________________________");

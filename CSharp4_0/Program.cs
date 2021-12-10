@@ -7,7 +7,7 @@ namespace CSharp4_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 4.0
+             * Примеры эелементов C# 4.0
              */
             Console.WriteLine("C# 4.0 Примеры:");
             Console.WriteLine("__________________________________");

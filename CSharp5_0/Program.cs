@@ -7,7 +7,7 @@ namespace CSharp5_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 5.0
+             * Примеры эелементов C# 5.0
              */
             Console.WriteLine("C# 5.0 Примеры:");
             Console.WriteLine("__________________________________");

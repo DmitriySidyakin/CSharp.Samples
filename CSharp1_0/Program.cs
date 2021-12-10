@@ -7,7 +7,7 @@ namespace CSharp1_0
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 1.0
+             * Примеры эелементов C# 1.0
              */
             Console.WriteLine("C# 1.0 Примеры:");
             Console.WriteLine("__________________________________");

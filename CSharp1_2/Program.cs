@@ -7,7 +7,7 @@ namespace CSharp1_2
         static void Main(string[] args)
         {
             /**
-             * Примеры эелемнтов C# 1.2
+             * Примеры эелементов C# 1.2
              */
             Console.WriteLine("C# 1.2 Примеры:");
             Console.WriteLine("__________________________________");
