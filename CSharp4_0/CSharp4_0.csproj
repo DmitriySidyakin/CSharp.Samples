@@ -1,8 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp1_0\CSharp1_0.csproj" />
+    <ProjectReference Include="..\CSharp1_2\CSharp1_2.csproj" />
+    <ProjectReference Include="..\CSharp2_0\CSharp2_0.csproj" />
+    <ProjectReference Include="..\CSharp3_0\CSharp3_0.csproj" />
+  </ItemGroup>
 
 </Project>

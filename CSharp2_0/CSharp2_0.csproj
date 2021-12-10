@@ -5,4 +5,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp1_0\CSharp1_0.csproj" />
+    <ProjectReference Include="..\CSharp1_2\CSharp1_2.csproj" />
+  </ItemGroup>
+
 </Project>
