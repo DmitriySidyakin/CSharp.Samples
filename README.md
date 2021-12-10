@@ -1,4 +1,4 @@
-# CSharp.Samples
+# Примеры C# 1-9
 
 Примеры кода на C# разделённые по версиям языка. Примеры элементов языка демонстрируются на примере консольного приложения (консольных приложений разделённых по версиям языка).
 
@@ -31,7 +31,7 @@
 
 # C# 1.2
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 1.2</summary>
@@ -39,12 +39,14 @@
   
   В цикле `foreach` реализован автоматический вызов Dispose в IEnumerator, если IEnumerator реализует IDisposable.
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp1_2/docs/README.md
+  
 </p>
 </details>
 
 # C# 2.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp2_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp2_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 2.0</summary>
@@ -63,12 +65,14 @@
 - Статические классы
 - Выведение делегата
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp2_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 3.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp3_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp3_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 3.0</summary>
@@ -84,12 +88,14 @@
 - Разделяемые методы
 - Инициализаторы объектов и коллекций
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp3_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 4.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp4_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp4_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 4.0</summary>
@@ -100,12 +106,14 @@
 - Универсальная ковариантность и контравариантность
 - Внедренные типы взаимодействия
 
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp4_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 5.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp5_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp5_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 5.0</summary>
@@ -114,12 +122,14 @@
 - Асинхронные члены
 - Информационные атрибуты вызывающего объекта 
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp5_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 6.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp6_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp6_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 6.0</summary>
@@ -133,12 +143,14 @@
 - Интерполяция строк
 - Оператор nameof
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp6_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 7.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.0</summary>
@@ -156,12 +168,14 @@
 - Двоичные литералы и цифровые разделители
 - Выражения throw
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 7.1
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_1/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_1 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.1</summary>
@@ -176,12 +190,14 @@
 - Сопоставление шаблонов в параметрах универсального типа
   - Выражения сопоставления шаблонов можно использовать с переменными, тип которых является параметром универсального типа.
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_1/docs/README.md
+  
 </p>
 </details>
 
 # C# 7.2
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_2/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_2 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.2</summary>
@@ -205,12 +221,14 @@
 - Условные выражения ref
   - Результат условного выражения ?: теперь может быть ссылкой.
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_2/docs/README.md
+  
 </p>
 </details>
 
 # C# 7.3
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 7.3</summary>
@@ -237,12 +255,14 @@
 - -publicsign позволяет включить подписывание сборок как программного обеспечения с открытым кодом;
 - -pathmap позволяет предоставить сопоставление для исходных каталогов.
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp7_3/docs/README.md
+  
 </p>
 </details>
 
 # C# 8.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 8.0</summary>
@@ -266,12 +286,14 @@
 - Выражение stackalloc во вложенных выражениях
 - Улучшение интерполированных строк verbatim
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp8_0/docs/README.md
+  
 </p>
 </details>
 
 # C# 9.0
 
-Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0/ .
+Проект с примерами кода: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0 .
 Для удобства рекомендуется загрузить всё решение.
 
 <details><summary>Возможности языка C# версии 9.0</summary>
@@ -297,6 +319,8 @@
   - Инициализаторы модулей
   - Новые функции для разделяемых методов
   
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/CSharp9_0/docs/README.md
+  
 </p>
 </details>
 
@@ -309,6 +333,9 @@
 <p>
 
 - Перечисления
+- Упаковка и распаковка
+  
+  Документация проекта: https://github.com/DmitriySidyakin/CSharp.Samples/tree/main/Miscellanea/docs/README.md
   
 </p>
 </details>
