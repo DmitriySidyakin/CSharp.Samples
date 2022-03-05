@@ -344,6 +344,7 @@
 
 # Официальная документация
 
+https://docs.microsoft.com/ru-ru/dotnet/csharp/
 https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-version-history
 
 Попробуйте повторить все возможности языка самостоятельно, прочитав документацию.
